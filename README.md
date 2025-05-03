@@ -11,7 +11,7 @@ A modern, responsive landing page template for a banking or payment service, bui
 
 *   **Modern UI/UX:** Clean design following modern trends.
 *   **Responsive Design:** Adapts seamlessly to different screen sizes (desktop, tablet, mobile).
-*   **Reusable Components:** Built with modular React components (e.g., Billing, Footer).
+*   **Reusable Components:** Built with modular React components.
 *   **Tailwind CSS:** Utilizes the utility-first CSS framework for rapid styling.
 *   **Vite Powered:** Fast development server and optimized build process using Vite.
 *   **Sections:** Includes sections for features like Billing/Invoicing, Call-to-Action, Footer with navigation and social links.
