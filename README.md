@@ -14,7 +14,7 @@ A modern, responsive landing page template for a banking or payment service, bui
 *   **Reusable Components:** Built with modular React components.
 *   **Tailwind CSS:** Utilizes the utility-first CSS framework for rapid styling.
 *   **Vite Powered:** Fast development server and optimized build process using Vite.
-*   **Sections:** Includes sections for features like Billing/Invoicing, Call-to-Action, Footer with navigation and social links.
+*   **Sections:** Includes sections for features like Billing, Call-to-Action, Footer with navigation and social links.
 
 ## 🚀 Tech Stack
 
